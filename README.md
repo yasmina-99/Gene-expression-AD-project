@@ -28,7 +28,7 @@ The Mann-Whitney U test, also known as the Wilcoxon rank-sum test, is a non-para
 
 
 ## Installation and Setup
-To get started with this project, you need to have Python 3.9 and conda installed on your computer. The Python packages used in this project are tidyverse,
+To get started with this project, you need to have Python 3.9 and conda installed on your computer. The Python packages used in this project are
 - sklearn
 - pandas
 - seaborn
@@ -38,6 +38,4 @@ To get started with this project, you need to have Python 3.9 and conda installe
 - imblearn
 - numpy 
 
-You can install these packages by running the following command in RStudio:
 
-less
