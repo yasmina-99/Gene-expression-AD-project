@@ -37,7 +37,7 @@ The dataset has 82 variables and 1080 observations. The variables include:
 The expression levels of each protein were measured 15 times per mouse, and there were 72 mice in total. The dataset is in the form of a data frame, and each measurement was treated as an independent sample/mouse.
 
 ## Supervised Machine Learning 
-### Aim of the model: Alzheimer's disease diagnosis 
+### Objective: Alzheimer's disease diagnosis 
 
 The aim of performing ML modeling was to be able to diagnose Alzheimer's disease and discriminate between healthy and sick patients based on gene expression data. Four different models were used for this purpose: Logistic regression, Random forest Classifier, Stochastic gradient boosting, and SVM. 
 
