@@ -4,9 +4,11 @@ The dataset contains the expression levels of `77 proteins` or protein modificat
 
 ![alt text](https://github.com/yasmina-99/Gene-expression-AD-project/blob/main/tsne_plot.html)
 
-
-![alt text](https://github.com/yasmina-99/Gene-expression-AD-project/blob/main/volcano_plot.html)
-
+<html>
+    <body>
+        <iframe src="https://raw.githubusercontent.com/yasmina-99/Gene-expression-AD-project/main/volcano_plot.html" width="100%" height="500px"></iframe>
+    </body>
+</html>
 
 ![alt text](https://github.com/yasmina-99/Gene-expression-AD-project/blob/main/download-10.png)
 
