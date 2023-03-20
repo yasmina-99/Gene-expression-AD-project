@@ -10,7 +10,6 @@ Alzheimer's disease is a progressive brain disorder that affects memory, thinkin
 
 People with Down syndrome are at increased risk of developing Alzheimer's disease as they age. This is because the extra copy of chromosome 21 that causes Down syndrome also carries the gene for amyloid precursor protein (APP), which is involved in the formation of beta-amyloid plaques in the brain. These plaques are a hallmark feature of Alzheimer's disease, and their accumulation is thought to play a key role in the development of the disease.
 
-### Memantine Drug
 Memantine is used to treat moderate-to-severe Alzheimer’s disease by blocking NMDA receptors in the glutamatergic system. The drug was first synthesized by Eli Lilly and Company in 1968 as a potential agent to treat diabetes, and the NMDA activity was discovered in the 1980s. Memantine has been associated with a moderate decrease in clinical deterioration with only a small positive effect on cognition, mood, behavior, and the ability to perform daily activities in moderate-to-severe Alzheimer’s disease. There does not appear to be any benefit in mild disease.
 
 ## More about the Dataset
