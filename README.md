@@ -26,7 +26,8 @@ The expression levels of each protein were measured 15 times per mouse, and ther
 ## Statistical analysis using the Mann-Whitney U test
 The Mann-Whitney U test, also known as the Wilcoxon rank-sum test, is a non-parametric statistical test used to compare two independent groups of samples. It is commonly used in gene expression studies to compare the expression levels of genes between two discriminant groups. The Mann-Whitney U test is particularly useful in gene expression studies because gene expression data is often non-normally distributed and can have outliers, violating the assumptions of parametric tests such as the t-test. Overall, the Mann-Whitney U test is a valuable tool for gene expression studies as it allows for accurate and robust comparisons between groups, even in cases where the underlying distribution is unknown or non-normal.
 
-## Installation and Setup
+
+## Installation and Setup
 To get started with this project, you need to have Python 3.9 and conda installed on your computer. The Python packages used in this project are tidyverse,
 - sklearn
 - pandas
