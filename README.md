@@ -2,6 +2,12 @@
 ## Project Description
 The dataset contains the expression levels of `77 proteins` or protein modifications in the `nuclear fraction of cortex in 72 mice.` There are 38 control mice and 34 trisomic mice (Down syndrome). Each mouse was subjected to 15 measurements per protein. The data contains a total of 1080 measurements per protein, and each measurement was treated as an independent sample/mouse. The eight classes of mice are categorized based on genotype, behavior, and treatment.
 
+![alt text](https://github.com/yasmina-99/Gene-expression-AD-project/blob/main/tsne_plot.html)
+
+
+![alt text](https://github.com/yasmina-99/Gene-expression-AD-project/blob/main/volcano_plot.html)
+
+
 ![alt text](https://github.com/yasmina-99/Gene-expression-AD-project/blob/main/download-10.png)
 
 
