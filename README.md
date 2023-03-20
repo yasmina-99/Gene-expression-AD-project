@@ -14,8 +14,6 @@ The dataset contains the expression levels of `77 proteins` or protein modificat
     </body>
 </html>
 
-![alt text](https://github.com/yasmina-99/Gene-expression-AD-project/blob/main/download-10.png)
-
 
 ## Aim of the project
 The primary aim of this project is to identify protein subsets that can discriminate between each class. The study was conducted by replicating the research idea proposed by Clara Higuera, Katheleen J. Gardiner, and Krzysztof J. Cios. The project's secondary goal is to practice statistical analyses and test for significant differences.
@@ -37,6 +35,19 @@ The dataset has 82 variables and 1080 observations. The variables include:
 - `Behavior:` context-shock (CS) or shock-context (SC)
 - `Class:` c-CS-s, c-CS-m, c-SC-s, c-SC-m, t-CS-s, t-CS-m, t-SC-s, t-SC-m
 The expression levels of each protein were measured 15 times per mouse, and there were 72 mice in total. The dataset is in the form of a data frame, and each measurement was treated as an independent sample/mouse.
+
+## Supervised Machine Learning 
+### Aim of the model: Alzheimer's disease diagnosis 
+
+The aim of performing ML modeling was to be able to diagnose Alzheimer's disease and discriminate between healthy and sick patients based on gene expression data. Four different models were used for this purpose: Logistic regression, Random forest Classifier, Stochastic gradient boosting, and SVM. 
+
+Stochastic Gradient Boosting is a variant of gradient boosting that introduces randomness into the training process by subsampling the training data and features. This helps to reduce overfitting and improve generalization performance, especially when dealing with high-dimensional data like gene expression data. Stochastic Gradient Boosting has been shown to be particularly effective for gene expression data, as it can handle the complex and non-linear relationships between gene expression values and disease status.
+
+The results obtained on the test data are displayed below
+
+
+![alt text](https://github.com/yasmina-99/Gene-expression-AD-project/blob/main/download-10.png)
+
 
 ## Statistical analysis using the Mann-Whitney U test
 The Mann-Whitney U test, also known as the Wilcoxon rank-sum test, is a non-parametric statistical test used to compare two independent groups of samples. It is commonly used in gene expression studies to compare the expression levels of genes between two discriminant groups. The Mann-Whitney U test is particularly useful in gene expression studies because gene expression data is often non-normally distributed and can have outliers, violating the assumptions of parametric tests such as the t-test. Overall, the Mann-Whitney U test is a valuable tool for gene expression studies as it allows for accurate and robust comparisons between groups, even in cases where the underlying distribution is unknown or non-normal.
