@@ -2,6 +2,9 @@
 ## Project Description
 The dataset contains the expression levels of `77 proteins` or protein modifications in the `nuclear fraction of cortex in 72 mice.` There are 38 control mice and 34 trisomic mice (Down syndrome). Each mouse was subjected to 15 measurements per protein. The data contains a total of 1080 measurements per protein, and each measurement was treated as an independent sample/mouse. The eight classes of mice are categorized based on genotype, behavior, and treatment.
 
+![alt text](https://github.com/yasmina-99/Gene-expression-AD-project/blob/main/download-10.png)
+
+
 ## Aim of the project
 The primary aim of this project is to identify protein subsets that can discriminate between each class. The study was conducted by replicating the research idea proposed by Clara Higuera, Katheleen J. Gardiner, and Krzysztof J. Cios. The project's secondary goal is to practice statistical analyses and test for significant differences.
 
